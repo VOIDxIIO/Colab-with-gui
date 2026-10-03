@@ -19,6 +19,7 @@ Turn Google Colab into a Linux desktop you can control from your phone or PC. Fr
 1. Open the Notebook
 
 Click the badge or open colab_desktop.ipynb in this repo.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VOIDxIIO/Colab-with-gui/blob/main/Colab-with-gui.ipynb)
 
 2. Set Your Password
 
